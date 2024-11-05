@@ -1,34 +1,63 @@
+import java.util.*;
+
 class Solution {
     public List<List<Integer>> combinationSum2(int[] candidates, int target) {
-        Arrays.sort(candidates);
-        List<List<Integer>> res = new ArrayList<>();
+        return new AbstractList<List<Integer>>() {
+            List<List<Integer>> result = null;
 
-        dfs(candidates, target, 0, new ArrayList<Integer>(), res);
-        return res;
+            public List<Integer> get(int i) {
+                init();
+                return result.get(i);
+            }
+
+            public int size() {
+                init();
+                return result.size();
+            }
+
+            private void init() {
+                if (result != null) return;
+
+                Arrays.sort(candidates);
+
+                // Create a frequency map to count occurrences of each element
+                Map<Integer, Integer> freqMap = new HashMap<>();
+                for (int i : candidates) {
+                    freqMap.put(i, freqMap.getOrDefault(i, 0) + 1);
+                }
+
+                // Convert frequency map to a list of arrays [element, frequency]
+                List<int[]> freq = new ArrayList<>();
+                freqMap.forEach((k, v) -> freq.add(new int[] { k, v }));
+
+                Set<List<Integer>> set = new HashSet<>();
+                impl(freq, 0, target, new ArrayList<>(), 0, set);
+                result = new ArrayList<>(set);
+            }
+        };
     }
 
-    private void dfs(int[] candidates, int target, int start, List<Integer> comb, List<List<Integer>> res) {
-        if (target < 0) {
+    private void impl(List<int[]> candidates, int start, int target, List<Integer> list, int sum, Set<List<Integer>> result) {
+        if (sum == target) {
+            result.add(new ArrayList<>(list));
             return;
         }
 
-        if (target == 0) {
-            res.add(new ArrayList<Integer>(comb));
-            return;
-        }
+        for (int i = start; i < candidates.size(); i++) {
+            int[] c = candidates.get(i);
+            if (c[1] == 0) continue; // Skip if no occurrences left
+            if (sum + c[0] > target) continue; // Skip if sum exceeds target
 
-        for (int i = start; i < candidates.length; i++) {
-            if (i > start && candidates[i] == candidates[i-1]) {
-                continue;
-            }
+            // Choose the current element
+            list.add(c[0]);
+            c[1]--; // Decrease the count
 
-            if (candidates[i] > target) {
-                break;
-            }
+            // Recurse with updated parameters
+            impl(candidates, i, target, list, sum + c[0], result);
 
-            comb.add(candidates[i]);
-            dfs(candidates, target - candidates[i], i + 1, comb, res);
-            comb.remove(comb.size() - 1);
+            // Backtrack: remove the current element and restore count
+            list.remove(list.size() - 1);
+            c[1]++;
         }
     }
 }
