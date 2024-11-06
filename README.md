@@ -12,6 +12,7 @@ Leetcode practice questions
 | ------- |
 | [0001-two-sum](https://github.com/ruchap24/Leetcode/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/ruchap24/Leetcode/tree/master/0040-combination-sum-ii) |
+| [3291-find-if-array-can-be-sorted](https://github.com/ruchap24/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Backtracking
 |  |
 | ------- |
@@ -20,4 +21,12 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ruchap24/Leetcode/tree/master/0001-two-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/ruchap24/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
+## Sorting
+|  |
+| ------- |
+| [3291-find-if-array-can-be-sorted](https://github.com/ruchap24/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 <!---LeetCode Topics End-->
