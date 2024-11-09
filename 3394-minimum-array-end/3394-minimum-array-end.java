@@ -1,49 +1,22 @@
 class Solution {
     public long minEnd(int n, int x) {
-        String binaryString = Integer.toBinaryString(n - 1);
-        String startString = Integer.toBinaryString(x);
+        long ans = x;
 
-        int a = startString.length() - 1;
-        int b = binaryString.length() - 1;
-        StringBuilder sBuilder = new StringBuilder();
-
-        while (true) {
-            if (a == -1 && b == -1) {
-                break;
-            } else {
-                if (a == -1) {
-                    while (b != -1) {
-                        sBuilder.insert(0, binaryString.charAt(b));
-                        b--;
-                    }
-                    break;
-                } else if (b == -1) {
-                    while (a != -1) {
-                        sBuilder.insert(0, startString.charAt(a));
-                        a--;
-                    }
-                } else {
-                    char atStart = startString.charAt(a);
-                    char atBin = binaryString.charAt(b);
-
-                    if (atStart == '1') {
-                        sBuilder.insert(0, atStart);
-                        a--;
-                    } else {
-                        sBuilder.insert(0, atBin);
-                        a--;
-                        b--;
-                    }
-                }
-            }
+        n--;
+        List<Integer> arr = new ArrayList<>();
+        while(n != 0){
+            arr.add(n % 2);
+            n /= 2;
         }
-
-        long result = 0;
-        int length = sBuilder.length();
-        for (int i = 0; i < length; i++) {
-            result = result * 2 + (sBuilder.charAt(i) - '0');
+        
+        int idx = 0;
+        for(int i = 0; i < 64 && idx < arr.size();i++){
+            if(i < 32 && ((1 << i) & ans) != 0) continue; 
+        
+            if(arr.get(idx) == 1) ans += (long) Math.pow(2, i);
+            System.out.println(ans);
+            idx++;
         }
-
-        return result;
+        return ans;
     }
 }
