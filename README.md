@@ -11,6 +11,7 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ruchap24/Leetcode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/ruchap24/Leetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/ruchap24/Leetcode/tree/master/0040-combination-sum-ii) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ruchap24/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ruchap24/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -37,4 +38,8 @@ Leetcode practice questions
 |  |
 | ------- |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ruchap24/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ruchap24/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
