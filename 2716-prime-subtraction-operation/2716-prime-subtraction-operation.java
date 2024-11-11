@@ -1,73 +1,42 @@
 class Solution {
-    public boolean primeSubOperation(int[] numbers) {
-        int largestNumber = 0;
-        for (int number : numbers) {
-            largestNumber = Math.max(largestNumber, number);
-        }
 
-        boolean[] primeSieve = new boolean[largestNumber + 1];
-        primeSieve[0] = primeSieve[1] = true;
-        for (int i = 2; i * i <= largestNumber; i++) {
-            if (!primeSieve[i]) {
-                for (int j = 2 * i; j <= largestNumber; j += i) {
-                    primeSieve[j] = true;
-                }
-            }
-        }
-
-        List<Integer> primeNumbers = new ArrayList<>();
-        for (int i = 2; i < primeSieve.length; i++) {
-            if (!primeSieve[i]) {
-                primeNumbers.add(i);
-            }
-        }
-
-        int index = findMaxSubtraction(primeNumbers, 0, numbers[0]);
-        if (index != -1) {
-            numbers[0] -= primeNumbers.get(index);
-        }
-
-        for (int i = 1; i < numbers.length; i++) {
-            index = findMaxSubtraction(primeNumbers, numbers[i - 1], numbers[i]);
-            
-            if (index == -1 && numbers[i] <= numbers[i - 1]) {
+    public boolean isPrime(int n) {
+        for (int i = 2; i * i <= n; i++) {
+            if (n % i == 0) {
                 return false;
-            } else if (index != -1) {
-                numbers[i] -= primeNumbers.get(index);
             }
         }
-
         return true;
     }
 
-    private int findMaxSubtraction(List<Integer> primes, int previousValue, int currentValue) {
-        if (primes.size() == 0) {
-            return -1;
+    public boolean primeSubOperation(int[] nums) {
+        int maxElement = Integer.MIN_VALUE;
+        for (int num : nums) {
+            maxElement = Math.max(maxElement, num);
         }
-
-        int leftIndex = 0;
-        int rightIndex = primes.size() - 1;
-        int midIndex;
-
-        while (leftIndex <= rightIndex) {
-            midIndex = (leftIndex + rightIndex) / 2;
-
-            if (currentValue - primes.get(midIndex) <= previousValue) {
-                rightIndex = midIndex - 1;
+        int[] previousPrime = new int[maxElement + 1];
+        for (int i = 2; i <= maxElement; i++) {
+            if (isPrime(i)) {
+                previousPrime[i] = i;
             } else {
-                if (midIndex == primes.size() - 1 || currentValue - primes.get(midIndex + 1) <= previousValue) {
-                    return midIndex;
-                } else {
-                    leftIndex = midIndex + 1;
-                }
+                previousPrime[i] = previousPrime[i - 1];
             }
         }
 
-        midIndex = rightIndex;
-        if (midIndex >= 0 && currentValue - primes.get(midIndex) <= previousValue) {
-            return -1;
-        } else {
-            return midIndex;
+        for (int i = 0; i < nums.length; i++) {
+            int bound;
+            if (i == 0) {
+                bound = nums[0];
+            } else {
+                bound = nums[i] - nums[i - 1];
+            }
+
+            if (bound <= 0) {
+                return false;
+            }
+            int largestPrime = previousPrime[bound - 1];
+            nums[i] -= largestPrime;
         }
+        return true;
     }
 }
