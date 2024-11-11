@@ -6,6 +6,7 @@ Leetcode practice questions
 ## String
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/ruchap24/Leetcode/tree/master/0812-rotate-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ruchap24/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Array
 |  |
@@ -62,4 +63,8 @@ Leetcode practice questions
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/ruchap24/Leetcode/tree/master/2716-prime-subtraction-operation) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/ruchap24/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
