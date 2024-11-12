@@ -58,6 +58,7 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ruchap24/Leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/ruchap24/Leetcode/tree/master/0009-palindrome-number) |
 | [2716-prime-subtraction-operation](https://github.com/ruchap24/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Greedy
 |  |
