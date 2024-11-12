@@ -17,6 +17,7 @@ Leetcode practice questions
 | [0040-combination-sum-ii](https://github.com/ruchap24/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ruchap24/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/ruchap24/Leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ruchap24/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ruchap24/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ruchap24/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2716-prime-subtraction-operation](https://github.com/ruchap24/Leetcode/tree/master/2716-prime-subtraction-operation) |
@@ -89,4 +90,5 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/ruchap24/Leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ruchap24/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
