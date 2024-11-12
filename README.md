@@ -17,6 +17,7 @@ Leetcode practice questions
 | [0040-combination-sum-ii](https://github.com/ruchap24/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ruchap24/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/ruchap24/Leetcode/tree/master/0118-pascals-triangle) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/ruchap24/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ruchap24/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2716-prime-subtraction-operation](https://github.com/ruchap24/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ruchap24/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -41,6 +42,7 @@ Leetcode practice questions
 ## Sorting
 |  |
 | ------- |
+| [2179-most-beautiful-item-for-each-query](https://github.com/ruchap24/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ruchap24/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting
 |  |
@@ -50,6 +52,7 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ruchap24/Leetcode/tree/master/0035-search-insert-position) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/ruchap24/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2716-prime-subtraction-operation](https://github.com/ruchap24/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Sliding Window
 |  |
