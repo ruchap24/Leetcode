@@ -16,6 +16,7 @@ Leetcode practice questions
 | [0035-search-insert-position](https://github.com/ruchap24/Leetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/ruchap24/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ruchap24/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/ruchap24/Leetcode/tree/master/0118-pascals-triangle) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ruchap24/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2716-prime-subtraction-operation](https://github.com/ruchap24/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ruchap24/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -81,4 +82,8 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ruchap24/Leetcode/tree/master/0073-set-matrix-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/ruchap24/Leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
