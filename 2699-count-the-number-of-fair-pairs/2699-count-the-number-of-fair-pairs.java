@@ -1,54 +1,26 @@
 class Solution {
-    public long countFairPairs(int[] nums, int lower, int upper) {        
-        int n=nums.length;
-        if(n==1) { return 0; }
-        long cnt=0;
+    public long countFairPairs(int[] nums, int lower, int upper) {
         Arrays.sort(nums);
-        int num=0;
-        int low=0, high=0;
-        for(int k=0; k<n; k++){    
-            low=0; high=0;
-            if( (k+1)<n && (nums[k]+nums[k+1])>upper ){
-                return cnt;
-            } 
-            else if( nums[k]+nums[n-1]<lower ){
-                continue;
-            }
-            low=binSearchLeft(nums, k+1, n-1, lower-nums[k]);         
-            high=binSearchRight(nums, k+1, n-1, upper-nums[k]);      
-            
-            if(low>k && high>=low){
-                cnt += high-low+1;
-            }
+        long res = 0;
+        for(int i =0; i < nums.length; i++){
+            int lowerBound = 0, upperBound = 0;
+            lowerBound = bs(nums, lower-nums[i], i+1);
+            upperBound = bs(nums, upper-nums[i]+1, i+1);
+            res += upperBound -lowerBound;
         }
-        return cnt; 
+        return res;
     }
-    int binSearchLeft(int[] nums, int left, int right, int target){
-        int mid=0, result=-1;
-        while(left<=right){
-            mid=(left+right)/2;
-            if(nums[mid]>=target){
-                result=mid;
-                right=mid-1;                
+    public int bs(int[] nums, int target, int fixed){
+        int l = fixed, r = nums.length;
+        while(l < r){
+            int mid = l + (r-l) / 2;
+            if(nums[mid] < target){
+                l = mid+1;
             }
             else{
-                left=mid+1;
+                r= mid;
             }
         }
-        return result;
-    }
-   int binSearchRight(int[] nums, int left, int right, int target){
-        int mid=0, result=-1;
-        while(left<=right){
-            mid=(left+right)/2;
-            if(nums[mid]<=target){
-                result=mid;
-                left=mid+1;                
-            }
-            else{
-                right=mid-1;
-            }
-        }
-        return result;
-    }
+        return l;
+    } 
 }
