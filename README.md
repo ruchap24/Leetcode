@@ -22,6 +22,7 @@ Leetcode practice questions
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ruchap24/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ruchap24/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ruchap24/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/ruchap24/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/ruchap24/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ruchap24/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ruchap24/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -47,6 +48,7 @@ Leetcode practice questions
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ruchap24/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ruchap24/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/ruchap24/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ruchap24/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting
 |  |
@@ -58,6 +60,7 @@ Leetcode practice questions
 | [0035-search-insert-position](https://github.com/ruchap24/Leetcode/tree/master/0035-search-insert-position) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ruchap24/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ruchap24/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/ruchap24/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/ruchap24/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Sliding Window
 |  |
@@ -88,6 +91,7 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ruchap24/Leetcode/tree/master/0011-container-with-most-water) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/ruchap24/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Matrix
 |  |
 | ------- |
