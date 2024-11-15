@@ -7,6 +7,7 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ruchap24/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/ruchap24/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0812-rotate-string](https://github.com/ruchap24/Leetcode/tree/master/0812-rotate-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ruchap24/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Array
@@ -107,10 +108,15 @@ Leetcode practice questions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/ruchap24/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0118-pascals-triangle](https://github.com/ruchap24/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ruchap24/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ruchap24/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/ruchap24/Leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
