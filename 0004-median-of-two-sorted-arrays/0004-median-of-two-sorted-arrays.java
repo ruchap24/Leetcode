@@ -1,33 +1,28 @@
 class Solution {
-    public static double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        int totalLength = nums1.length + nums2.length;
-        int[] merged = new int[totalLength];
-        int i = 0, j = 0, k = 0;
-        while (i < nums1.length && j < nums2.length) {
-            if (nums1[i] < nums2[j]) {
-                merged[k++] = nums1[i++];
-            } else {
-                merged[k++] = nums2[j++];
-            }
+    public double findMedianSortedArrays(int[] nums1, int[] nums2) {
+        int m=nums1.length;
+        int n=nums2.length;
+
+        int Len=m+n;
+        int[] nums3=new int[Len];
+        int cnt=0,v1,v2;
+
+        for(int i=0;i<m;i++)
+            nums3[cnt++]=nums1[i];
+        for(int i=0;i<n;i++)
+            nums3[cnt++]=nums2[i];
+
+        Arrays.sort(nums3);
+        if(Len%2==1)
+          {
+             v1=(nums3.length/2);
+             return nums3[v1];
+          }
+        else
+        {
+            v1=(nums3.length/2);
+            v2=v1-1;
+            return ((nums3[v1]+nums3[v2])/2.0);
         }
-        while (i < nums1.length) {
-            merged[k++] = nums1[i++];
-        }
-        while (j < nums2.length) {
-            merged[k++] = nums2[j++];
-        }
-        if (totalLength % 2 == 1) {
-            return merged[totalLength / 2];
-        } else {
-            int mid1 = merged[totalLength / 2 - 1];
-            int mid2 = merged[totalLength / 2];
-            return (mid1 + mid2) / 2.0;
-        }
-    }
-    public static void main(String[] args) {
-        int[] nums1 = {1, 3};
-        int[] nums2 = {2};
-        double median = findMedianSortedArrays(nums1, nums2);
-        System.out.println("Median: " + median);
     }
 }
