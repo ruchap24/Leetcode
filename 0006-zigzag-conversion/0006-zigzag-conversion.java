@@ -1,32 +1,23 @@
 class Solution {
     public String convert(String s, int numRows) {
-       if (numRows == 1 || numRows >= s.length()) {
+        int n = s.length();
+        if(numRows == 1){
             return s;
         }
-
-        int idx = 0, d = 1;
-        List<Character>[] rows = new ArrayList[numRows];
-        for (int i = 0; i < numRows; i++) {
-            rows[i] = new ArrayList<>();
-        }
-
-        for (char c : s.toCharArray()) {
-            rows[idx].add(c);
-            if (idx == 0) {
-                d = 1;
-            } else if (idx == numRows - 1) {
-                d = -1;
-            }
-            idx += d;
-        }
-
-        StringBuilder result = new StringBuilder();
-        for (List<Character> row : rows) {
-            for (char c : row) {
-                result.append(c);
+        StringBuilder ans = new StringBuilder();
+        int group = 2 * numRows - 2;
+        for (int i = 1; i <= numRows; i++) {
+            int interval = i == numRows ? group : 2 * numRows - 2 * i;
+            int idx = i - 1;
+            while (idx < s.length()) {
+                ans.append(s.charAt(idx));
+                idx += interval;
+                interval = group - interval;
+                if (interval == 0) {
+                    interval = group;
+                }
             }
         }
-
-        return result.toString();        
+        return ans.toString();
     }
 }
