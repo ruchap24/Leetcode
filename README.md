@@ -15,6 +15,7 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ruchap24/Leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/ruchap24/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ruchap24/Leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/ruchap24/Leetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/ruchap24/Leetcode/tree/master/0040-combination-sum-ii) |
@@ -65,6 +66,7 @@ Leetcode practice questions
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ruchap24/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/ruchap24/Leetcode/tree/master/0035-search-insert-position) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ruchap24/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ruchap24/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -120,4 +122,8 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ruchap24/Leetcode/tree/master/0010-regular-expression-matching) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ruchap24/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
