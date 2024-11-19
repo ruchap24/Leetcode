@@ -21,6 +21,7 @@ Leetcode practice questions
 | [0031-next-permutation](https://github.com/ruchap24/Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/ruchap24/Leetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/ruchap24/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/ruchap24/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/ruchap24/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/ruchap24/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/ruchap24/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -40,6 +41,7 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/ruchap24/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/ruchap24/Leetcode/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/ruchap24/Leetcode/tree/master/0090-subsets-ii) |
 ## Hash Table
 |  |
