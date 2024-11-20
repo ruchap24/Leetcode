@@ -10,6 +10,7 @@ Leetcode practice questions
 | [0006-zigzag-conversion](https://github.com/ruchap24/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/ruchap24/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0812-rotate-string](https://github.com/ruchap24/Leetcode/tree/master/0812-rotate-string) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/ruchap24/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ruchap24/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Array
 |  |
@@ -52,6 +53,7 @@ Leetcode practice questions
 | [0073-set-matrix-zeroes](https://github.com/ruchap24/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ruchap24/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ruchap24/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/ruchap24/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -88,6 +90,7 @@ Leetcode practice questions
 | [0003-longest-substring-without-repeating-characters](https://github.com/ruchap24/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ruchap24/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ruchap24/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/ruchap24/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ruchap24/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Math
 |  |
