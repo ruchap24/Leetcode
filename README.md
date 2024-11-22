@@ -23,6 +23,7 @@ Leetcode practice questions
 | [0035-search-insert-position](https://github.com/ruchap24/Leetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/ruchap24/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ruchap24/Leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/ruchap24/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ruchap24/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/ruchap24/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ruchap24/Leetcode/tree/master/0075-sort-colors) |
@@ -100,6 +101,7 @@ Leetcode practice questions
 | ------- |
 | [0007-reverse-integer](https://github.com/ruchap24/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ruchap24/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/ruchap24/Leetcode/tree/master/0048-rotate-image) |
 | [2716-prime-subtraction-operation](https://github.com/ruchap24/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Greedy
 |  |
@@ -127,6 +129,7 @@ Leetcode practice questions
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/ruchap24/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ruchap24/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ruchap24/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Dynamic Programming
