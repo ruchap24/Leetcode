@@ -1,30 +1,45 @@
 class Solution {
-    public int[][] merge(int[][] intervals) {
-        if (intervals.length == 0)
-            return new int[0][0];
+    public static int[][] merge(int[][] intervals) {
+        int max = 0;
+        for (int i = 0; i < intervals.length; i++) {
+            max = Math.max(intervals[i][0], max);
+        }
 
-        // Sort the intervals by their start time
-        Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
+        int[] mp = new int[max + 1];
+        for (int i = 0; i < intervals.length; i++) {
+            int start = intervals[i][0];
+            int end = intervals[i][1];
+            mp[start] = Math.max(end + 1, mp[start]);
+        }
 
-        LinkedList<int[]> result = new LinkedList<>();
-
-        // Add the first interval to the result list
-        result.add(intervals[0]);
-
-        for (int i = 1; i < intervals.length; i++) {
-            // Get the last interval added to the result list
-            int[] lastAddedInterval = result.getLast();
-
-            // If the current interval overlaps with the last added interval, merge them
-            if (lastAddedInterval[1] >= intervals[i][0]) {
-                lastAddedInterval[1] = Math.max(lastAddedInterval[1], intervals[i][1]);
-            } else {
-                // Otherwise, add the current interval to the result list
-                result.add(intervals[i]);
+        int r = 0;
+        int have = -1;
+        int intervalStart = -1;
+        for (int i = 0; i < mp.length; i++) {
+            if (mp[i] != 0) {
+                if (intervalStart == -1) intervalStart = i;
+                have = Math.max(mp[i] - 1, have);
+            }
+            if (have == i) {
+                intervals[r++] = new int[] { intervalStart, have };
+                have = -1;
+                intervalStart = -1;
             }
         }
 
-        // Convert the LinkedList to a 2D array and return it
-        return result.toArray(new int[result.size()][]);
+        if (intervalStart != -1) {
+            intervals[r++] = new int[] { intervalStart, have };
+        }
+
+        if (intervals.length == r) {
+            return intervals;
+        }
+
+        int[][] res = new int[r][];
+        for (int i = 0; i < r; i++) {
+            res[i] = intervals[i];
+        }
+
+        return res;
     }
 }
