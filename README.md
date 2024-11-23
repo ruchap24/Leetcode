@@ -36,6 +36,7 @@ Leetcode practice questions
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ruchap24/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ruchap24/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ruchap24/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [1972-rotating-the-box](https://github.com/ruchap24/Leetcode/tree/master/1972-rotating-the-box) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ruchap24/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ruchap24/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ruchap24/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -133,6 +134,7 @@ Leetcode practice questions
 | [0075-sort-colors](https://github.com/ruchap24/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ruchap24/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/ruchap24/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1972-rotating-the-box](https://github.com/ruchap24/Leetcode/tree/master/1972-rotating-the-box) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ruchap24/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Matrix
 |  |
@@ -140,6 +142,7 @@ Leetcode practice questions
 | [0048-rotate-image](https://github.com/ruchap24/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ruchap24/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ruchap24/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1972-rotating-the-box](https://github.com/ruchap24/Leetcode/tree/master/1972-rotating-the-box) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ruchap24/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Dynamic Programming
 |  |
