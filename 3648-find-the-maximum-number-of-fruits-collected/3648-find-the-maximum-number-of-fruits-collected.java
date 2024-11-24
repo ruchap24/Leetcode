@@ -12,22 +12,17 @@ class Solution {
                 }
             }
         }
-
-        // First child
         int res = 0;
         for (int i = 0; i < n; ++i) {
             res += A[i][i];
         }
 
-        // Second child
         for (int i = 1; i < n; ++i) {
             for (int j = i + 1; j < n; ++j) {
                 A[i][j] += Math.max(A[i - 1][j - 1],
                                   Math.max(A[i - 1][j], (j + 1 < n) ? A[i - 1][j + 1] : 0));
             }
         }
-
-        // Third child
         for (int j = 1; j < n; ++j) {
             for (int i = j + 1; i < n; ++i) {
                 A[i][j] += Math.max(A[i - 1][j - 1],
