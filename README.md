@@ -47,6 +47,7 @@ Leetcode practice questions
 | [2716-prime-subtraction-operation](https://github.com/ruchap24/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ruchap24/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ruchap24/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ruchap24/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ruchap24/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Backtracking
 |  |
@@ -177,8 +178,10 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/ruchap24/Leetcode/tree/master/0787-sliding-puzzle) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ruchap24/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
 | ------- |
 | [3189-find-champion-ii](https://github.com/ruchap24/Leetcode/tree/master/3189-find-champion-ii) |
+| [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ruchap24/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 <!---LeetCode Topics End-->
