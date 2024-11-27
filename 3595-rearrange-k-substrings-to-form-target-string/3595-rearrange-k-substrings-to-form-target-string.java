@@ -1,6 +1,6 @@
 class Solution {
     public boolean isPossibleToRearrange(String s, String t, int k) {
-	int size = s.length();
+        int size = s.length();
 	int div = size/k;
 	Map<String, Integer> map = new HashMap<>();
 	for(int i=0; i<size; i+=div) {
@@ -14,5 +14,6 @@ class Solution {
 		} else return false;
 	}
 	return true;
-}
+
+    }
 }
