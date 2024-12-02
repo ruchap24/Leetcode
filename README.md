@@ -11,6 +11,7 @@ Leetcode practice questions
 | [0008-string-to-integer-atoi](https://github.com/ruchap24/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/ruchap24/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0812-rotate-string](https://github.com/ruchap24/Leetcode/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ruchap24/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ruchap24/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ruchap24/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Array
@@ -135,6 +136,7 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/ruchap24/Leetcode/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ruchap24/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -145,6 +147,7 @@ Leetcode practice questions
 | [0088-merge-sorted-array](https://github.com/ruchap24/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/ruchap24/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ruchap24/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ruchap24/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/ruchap24/Leetcode/tree/master/1972-rotating-the-box) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ruchap24/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Matrix
