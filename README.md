@@ -37,6 +37,7 @@ Leetcode practice questions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ruchap24/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/ruchap24/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0787-sliding-puzzle](https://github.com/ruchap24/Leetcode/tree/master/0787-sliding-puzzle) |
+| [1036-rotting-oranges](https://github.com/ruchap24/Leetcode/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ruchap24/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ruchap24/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ruchap24/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -159,6 +160,7 @@ Leetcode practice questions
 | [0048-rotate-image](https://github.com/ruchap24/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ruchap24/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0787-sliding-puzzle](https://github.com/ruchap24/Leetcode/tree/master/0787-sliding-puzzle) |
+| [1036-rotting-oranges](https://github.com/ruchap24/Leetcode/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ruchap24/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/ruchap24/Leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/ruchap24/Leetcode/tree/master/2089-maximum-matrix-sum) |
@@ -192,6 +194,7 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0787-sliding-puzzle](https://github.com/ruchap24/Leetcode/tree/master/0787-sliding-puzzle) |
+| [1036-rotting-oranges](https://github.com/ruchap24/Leetcode/tree/master/1036-rotting-oranges) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ruchap24/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ruchap24/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
