@@ -1,35 +1,30 @@
-class Solution 
-{
-    public int getLargestOutlier(int[] nums) 
-    {
-        int sum = 0;
-        for (int num : nums)
-        {
-            sum += num;
+class Solution {
+    public int getLargestOutlier(int[] nums) {
+        int totalSum = 0;
+        for (int num : nums) {
+            totalSum += num;
         }
-        TreeMap<Integer, Integer> frequencyMap = new TreeMap<>();
-        for (int num : nums) 
-        {
-            frequencyMap.put(num, frequencyMap.getOrDefault(num, 0) + 1);
+
+        Map<Integer, Integer> frequency = new HashMap<>();
+        for (int num : nums) {
+            frequency.put(num, frequency.getOrDefault(num, 0) + 1);
         }
-        int ans = Integer.MIN_VALUE;
-        for (int num : nums) 
-        {
-            if ((sum - num) % 2 == 0) 
-            {
-                int target = (sum - num) / 2;
-                frequencyMap.put(num, frequencyMap.get(num) - 1);
-                if (frequencyMap.get(num) == 0) 
-                {
-                    frequencyMap.remove(num);
+
+        int largestOutlier = Integer.MIN_VALUE;
+
+        for (int num : nums) {
+            int potentialOutlier = totalSum - 2 * num;
+
+            if (frequency.containsKey(potentialOutlier)) {
+                if (potentialOutlier == num) {
+                    if (frequency.get(num) > 1) {
+                        largestOutlier = Math.max(largestOutlier, potentialOutlier);
+                    }
+                } else {
+                    largestOutlier = Math.max(largestOutlier, potentialOutlier);
                 }
-                if (frequencyMap.containsKey(target)) 
-                {
-                    ans = Math.max(ans, num);
-                }
-                frequencyMap.put(num, frequencyMap.getOrDefault(num, 0) + 1);
             }
         }
-        return ans == Integer.MIN_VALUE ? -1 : ans;
+        return largestOutlier;
     }
 }
