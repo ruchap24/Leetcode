@@ -55,6 +55,7 @@ Leetcode practice questions
 | [3291-find-if-array-can-be-sorted](https://github.com/ruchap24/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ruchap24/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ruchap24/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/ruchap24/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ruchap24/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Backtracking
 |  |
@@ -74,6 +75,7 @@ Leetcode practice questions
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ruchap24/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ruchap24/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ruchap24/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/ruchap24/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -99,6 +101,7 @@ Leetcode practice questions
 |  |
 | ------- |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ruchap24/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/ruchap24/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -225,4 +228,8 @@ Leetcode practice questions
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/ruchap24/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [3594-identify-the-largest-outlier-in-an-array](https://github.com/ruchap24/Leetcode/tree/master/3594-identify-the-largest-outlier-in-an-array) |
 <!---LeetCode Topics End-->
