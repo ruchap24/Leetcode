@@ -9,7 +9,7 @@ class Solution {
 
                 if (x1 == x2 || y1 == y2) continue;
 
-                if (isOtherCornerPresentAndValidRectangle(points, x1, y1, x2, y2)) {
+                if (isVRectangle(points, x1, y1, x2, y2)) {
                     int area = Math.abs(x2 - x1) * Math.abs(y2 - y1);
                     maxArea = Math.max(maxArea, area);
                 }
@@ -19,7 +19,7 @@ class Solution {
         return maxArea;
     }
 
-    private boolean isOtherCornerPresentAndValidRectangle(int[][] points, int x1, int y1, int x2, int y2) {
+    private boolean isVRectangle(int[][] points, int x1, int y1, int x2, int y2) {
         boolean corner1 = false;
         boolean corner2 = false;
         int minX = Math.min(x1, x2), maxX = Math.max(x1, x2);
