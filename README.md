@@ -45,6 +45,7 @@ Leetcode practice questions
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ruchap24/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1972-rotating-the-box](https://github.com/ruchap24/Leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/ruchap24/Leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2164-two-best-non-overlapping-events](https://github.com/ruchap24/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ruchap24/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ruchap24/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ruchap24/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -94,6 +95,7 @@ Leetcode practice questions
 | [0088-merge-sorted-array](https://github.com/ruchap24/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ruchap24/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ruchap24/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2164-two-best-non-overlapping-events](https://github.com/ruchap24/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ruchap24/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ruchap24/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ruchap24/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -112,6 +114,7 @@ Leetcode practice questions
 | [0792-binary-search](https://github.com/ruchap24/Leetcode/tree/master/0792-binary-search) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ruchap24/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ruchap24/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2164-two-best-non-overlapping-events](https://github.com/ruchap24/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ruchap24/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ruchap24/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ruchap24/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -183,6 +186,7 @@ Leetcode practice questions
 | [0053-maximum-subarray](https://github.com/ruchap24/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ruchap24/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ruchap24/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2164-two-best-non-overlapping-events](https://github.com/ruchap24/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -217,6 +221,7 @@ Leetcode practice questions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2164-two-best-non-overlapping-events](https://github.com/ruchap24/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ruchap24/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Shortest Path
 |  |
