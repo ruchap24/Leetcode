@@ -11,6 +11,7 @@ Leetcode practice questions
 | [0008-string-to-integer-atoi](https://github.com/ruchap24/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/ruchap24/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ruchap24/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/ruchap24/Leetcode/tree/master/0067-add-binary) |
 | [0812-rotate-string](https://github.com/ruchap24/Leetcode/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ruchap24/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ruchap24/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -85,6 +86,7 @@ Leetcode practice questions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ruchap24/Leetcode/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/ruchap24/Leetcode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ruchap24/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ruchap24/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -142,6 +144,7 @@ Leetcode practice questions
 | [0007-reverse-integer](https://github.com/ruchap24/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ruchap24/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ruchap24/Leetcode/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/ruchap24/Leetcode/tree/master/0067-add-binary) |
 | [2716-prime-subtraction-operation](https://github.com/ruchap24/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Greedy
 |  |
@@ -213,6 +216,7 @@ Leetcode practice questions
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ruchap24/Leetcode/tree/master/0067-add-binary) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ruchap24/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Breadth-First Search
 |  |
