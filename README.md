@@ -96,6 +96,7 @@ Leetcode practice questions
 | [3291-find-if-array-can-be-sorted](https://github.com/ruchap24/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ruchap24/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/ruchap24/Leetcode/tree/master/3394-minimum-array-end) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/ruchap24/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -152,6 +153,7 @@ Leetcode practice questions
 | [0048-rotate-image](https://github.com/ruchap24/Leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/ruchap24/Leetcode/tree/master/0067-add-binary) |
 | [2716-prime-subtraction-operation](https://github.com/ruchap24/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/ruchap24/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Greedy
 |  |
 | ------- |
