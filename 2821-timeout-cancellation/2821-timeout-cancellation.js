@@ -9,8 +9,11 @@ var cancellable = function(fn, args, t) {
         fn(...args)
     , t)
     var cancelFn = () => clearTimeout(timeout);
-
     return cancelFn;
+
+    // in short
+    // const timer = setTimeout(fn, t, ...args);
+    // return () => clearTimeout(timer);
 };
 
 /**
