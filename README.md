@@ -127,6 +127,7 @@ Leetcode practice questions
 | [0035-search-insert-position](https://github.com/ruchap24/Leetcode/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/ruchap24/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0436-find-right-interval](https://github.com/ruchap24/Leetcode/tree/master/0436-find-right-interval) |
+| [0633-sum-of-square-numbers](https://github.com/ruchap24/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ruchap24/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ruchap24/Leetcode/tree/master/0792-binary-search) |
 | [1249-snapshot-array](https://github.com/ruchap24/Leetcode/tree/master/1249-snapshot-array) |
@@ -155,6 +156,7 @@ Leetcode practice questions
 | [0009-palindrome-number](https://github.com/ruchap24/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ruchap24/Leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/ruchap24/Leetcode/tree/master/0067-add-binary) |
+| [0633-sum-of-square-numbers](https://github.com/ruchap24/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2716-prime-subtraction-operation](https://github.com/ruchap24/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ruchap24/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Greedy
@@ -185,6 +187,7 @@ Leetcode practice questions
 | [0075-sort-colors](https://github.com/ruchap24/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ruchap24/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/ruchap24/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0633-sum-of-square-numbers](https://github.com/ruchap24/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ruchap24/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ruchap24/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/ruchap24/Leetcode/tree/master/1972-rotating-the-box) |
