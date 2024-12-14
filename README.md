@@ -13,6 +13,7 @@ Leetcode practice questions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ruchap24/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/ruchap24/Leetcode/tree/master/0067-add-binary) |
 | [0812-rotate-string](https://github.com/ruchap24/Leetcode/tree/master/0812-rotate-string) |
+| [1023-time-based-key-value-store](https://github.com/ruchap24/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ruchap24/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/ruchap24/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ruchap24/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -80,6 +81,7 @@ Leetcode practice questions
 | [0001-two-sum](https://github.com/ruchap24/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ruchap24/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/ruchap24/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1023-time-based-key-value-store](https://github.com/ruchap24/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ruchap24/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1249-snapshot-array](https://github.com/ruchap24/Leetcode/tree/master/1249-snapshot-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ruchap24/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -131,6 +133,7 @@ Leetcode practice questions
 | [0633-sum-of-square-numbers](https://github.com/ruchap24/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ruchap24/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ruchap24/Leetcode/tree/master/0792-binary-search) |
+| [1023-time-based-key-value-store](https://github.com/ruchap24/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/ruchap24/Leetcode/tree/master/1249-snapshot-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ruchap24/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ruchap24/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -274,5 +277,6 @@ Leetcode practice questions
 ## Design
 |  |
 | ------- |
+| [1023-time-based-key-value-store](https://github.com/ruchap24/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1249-snapshot-array](https://github.com/ruchap24/Leetcode/tree/master/1249-snapshot-array) |
 <!---LeetCode Topics End-->
