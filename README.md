@@ -26,6 +26,7 @@ Leetcode practice questions
 | [0011-container-with-most-water](https://github.com/ruchap24/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/ruchap24/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ruchap24/Leetcode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ruchap24/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ruchap24/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ruchap24/Leetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/ruchap24/Leetcode/tree/master/0040-combination-sum-ii) |
@@ -127,6 +128,7 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ruchap24/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ruchap24/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ruchap24/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ruchap24/Leetcode/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/ruchap24/Leetcode/tree/master/0287-find-the-duplicate-number) |
