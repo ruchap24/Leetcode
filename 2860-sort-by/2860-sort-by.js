@@ -3,4 +3,6 @@
  * @param {Function} fn
  * @return {Array}
  */
-const sortBy = (arr, fn) => arr.toSorted((a, b) => fn(a) - fn(b));
+var sortBy = function(arr, fn) {
+    return arr.sort((a, b) => fn(a) - fn(b));
+};
