@@ -70,6 +70,7 @@ Leetcode practice questions
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ruchap24/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ruchap24/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/ruchap24/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ruchap24/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ruchap24/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ruchap24/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/ruchap24/Leetcode/tree/master/3427-special-array-ii) |
@@ -159,6 +160,7 @@ Leetcode practice questions
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ruchap24/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ruchap24/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/ruchap24/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ruchap24/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3427-special-array-ii](https://github.com/ruchap24/Leetcode/tree/master/3427-special-array-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/ruchap24/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 ## Sliding Window
@@ -282,6 +284,7 @@ Leetcode practice questions
 | [2300-construct-string-with-repeat-limit](https://github.com/ruchap24/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ruchap24/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ruchap24/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ruchap24/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ruchap24/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Shortest Path
 |  |
@@ -308,4 +311,20 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ruchap24/Leetcode/tree/master/0278-first-bad-version) |
+## Stack
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ruchap24/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ruchap24/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Segment Tree
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ruchap24/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ruchap24/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 <!---LeetCode Topics End-->
