@@ -146,6 +146,7 @@ Leetcode practice questions
 | [0240-search-a-2d-matrix-ii](https://github.com/ruchap24/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/ruchap24/Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/ruchap24/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/ruchap24/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0436-find-right-interval](https://github.com/ruchap24/Leetcode/tree/master/0436-find-right-interval) |
 | [0633-sum-of-square-numbers](https://github.com/ruchap24/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ruchap24/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -178,6 +179,7 @@ Leetcode practice questions
 | [0009-palindrome-number](https://github.com/ruchap24/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ruchap24/Leetcode/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/ruchap24/Leetcode/tree/master/0067-add-binary) |
+| [0367-valid-perfect-square](https://github.com/ruchap24/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/ruchap24/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ruchap24/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2716-prime-subtraction-operation](https://github.com/ruchap24/Leetcode/tree/master/2716-prime-subtraction-operation) |
