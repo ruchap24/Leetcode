@@ -1,79 +1,55 @@
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
+ * int val;
+ * TreeNode left;
+ * TreeNode right;
+ * TreeNode() {}
+ * TreeNode(int val) { this.val = val; }
+ * TreeNode(int val, TreeNode left, TreeNode right) {
+ * this.val = val;
+ * this.left = left;
+ * this.right = right;
+ * }
  * }
  */
 class Solution {
     public int minimumOperations(TreeNode root) {
-        Queue<TreeNode> que=new LinkedList<>();
-        boolean[] visit=new boolean[100001];
-        List<Integer> list;
-        int cnt=0;
-
-
-        // Initialize BFS
-        visit[root.val]=true;
-        que.add(root);
-        while(!que.isEmpty()){
-            
-            Queue<TreeNode> tmpQ=new LinkedList<>(); 
-            tmpQ.addAll(que); //Maintaining temp Queue for storing next level nodes into "que"
-            que.clear(); 
-
-            list=new ArrayList(); //Storing list of nodes for the same level 
-            while(!tmpQ.isEmpty()){
-                TreeNode node=tmpQ.poll();
-                if( node.left!=null && !visit[node.left.val] ){
-                    visit[node.left.val]=true;
-                    que.add(node.left);
-                    list.add(node.left.val);
+        int res = 0;
+        Queue<TreeNode> q = new LinkedList<>();
+        q.offer(root);
+        while (!q.isEmpty()) {
+            int size = q.size();
+            int[] nums = new int[size], sorted = new int[size];
+            for (int i = 0; i < size; i++) {
+                TreeNode cur = q.poll();
+                nums[i] = sorted[i] = cur.val;
+                if (cur.left != null) {
+                    q.offer(cur.left);
                 }
-                if( node.right!=null && !visit[node.right.val] ){
-                    visit[node.right.val]=true;
-                    que.add(node.right);
-                    list.add(node.right.val);
+                if (cur.right != null) {
+                    q.offer(cur.right);
                 }
             }
-            cnt+=minNoOperations(list); //Finding the minimum operations for strictly increasing order
+            res += countSwap(nums, sorted);
         }
-        return cnt;
+        return res;
     }
-    int minNoOperations(List<Integer> list){
-        int cnt=0;
-        List<Integer> listSort=new ArrayList();
-        Map<Integer, Integer> map=new HashMap();
 
-        //Storing Hash(key, value) for list-value and list-index
-        for(int i=0; i<list.size(); i++){
-            map.put(list.get(i), i);
+    public int countSwap(int[] nums, int[] sorted) {
+        Map<Integer, Integer> idx = new HashMap<>();
+        Arrays.sort(sorted);
+        int swap = 0;
+        for (int i = 0; i < nums.length; i++) {
+            idx.put(nums[i], i);
         }
-
-        listSort.addAll(list);
-        Collections.sort(listSort); 
-
-        //Comparing "list" with "sortedList" and swapping with help of "map"
-        for(int i=0; i<list.size(); i++){
-            if(list.get(i)!=listSort.get(i)){
-                int idxS=i;
-                int idxT=map.get(listSort.get(i));
-
-                Collections.swap(list, idxS, idxT); //Swapping the values between idxS and idxT
-                map.put(list.get(idxS), idxS); //Updating "map" value for idxS
-                map.put(list.get(idxT), idxT); //Updating "map" value for idxT
-
-                cnt++;
+        for (int i = 0; i < nums.length; i++) {
+            if (nums[i] != sorted[i]) {
+                swap++;
+                nums[idx.get(sorted[i])] = nums[i];
+                idx.put(nums[i], idx.get(sorted[i]));
             }
-        }        
-        return cnt;
+        }
+        return swap;
     }
 }
