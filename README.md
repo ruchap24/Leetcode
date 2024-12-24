@@ -46,6 +46,7 @@ Leetcode practice questions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ruchap24/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ruchap24/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ruchap24/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0275-h-index-ii](https://github.com/ruchap24/Leetcode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ruchap24/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0436-find-right-interval](https://github.com/ruchap24/Leetcode/tree/master/0436-find-right-interval) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ruchap24/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -145,6 +146,7 @@ Leetcode practice questions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ruchap24/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ruchap24/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ruchap24/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0275-h-index-ii](https://github.com/ruchap24/Leetcode/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/ruchap24/Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/ruchap24/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/ruchap24/Leetcode/tree/master/0367-valid-perfect-square) |
