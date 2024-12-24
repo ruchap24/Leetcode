@@ -11,6 +11,7 @@ Leetcode practice questions
 | [0008-string-to-integer-atoi](https://github.com/ruchap24/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/ruchap24/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ruchap24/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ruchap24/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0067-add-binary](https://github.com/ruchap24/Leetcode/tree/master/0067-add-binary) |
 | [0812-rotate-string](https://github.com/ruchap24/Leetcode/tree/master/0812-rotate-string) |
 | [1023-time-based-key-value-store](https://github.com/ruchap24/Leetcode/tree/master/1023-time-based-key-value-store) |
@@ -90,6 +91,7 @@ Leetcode practice questions
 | ------- |
 | [0001-two-sum](https://github.com/ruchap24/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ruchap24/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ruchap24/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0073-set-matrix-zeroes](https://github.com/ruchap24/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1023-time-based-key-value-store](https://github.com/ruchap24/Leetcode/tree/master/1023-time-based-key-value-store) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ruchap24/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -171,6 +173,7 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ruchap24/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/ruchap24/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ruchap24/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ruchap24/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ruchap24/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
