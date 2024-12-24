@@ -274,6 +274,7 @@ Leetcode practice questions
 | [1036-rotting-oranges](https://github.com/ruchap24/Leetcode/tree/master/1036-rotting-oranges) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ruchap24/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ruchap24/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ruchap24/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ruchap24/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
 |  |
@@ -281,6 +282,7 @@ Leetcode practice questions
 | [2201-valid-arrangement-of-pairs](https://github.com/ruchap24/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ruchap24/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3189-find-champion-ii](https://github.com/ruchap24/Leetcode/tree/master/3189-find-champion-ii) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ruchap24/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ruchap24/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Heap (Priority Queue)
 |  |
@@ -299,6 +301,7 @@ Leetcode practice questions
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/ruchap24/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ruchap24/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -336,6 +339,7 @@ Leetcode practice questions
 |  |
 | ------- |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ruchap24/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ruchap24/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
 | ------- |
