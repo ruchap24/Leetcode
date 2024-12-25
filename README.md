@@ -33,6 +33,7 @@ Leetcode practice questions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ruchap24/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ruchap24/Leetcode/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/ruchap24/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/ruchap24/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ruchap24/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ruchap24/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ruchap24/Leetcode/tree/master/0053-maximum-subarray) |
@@ -218,6 +219,7 @@ Leetcode practice questions
 | [0027-remove-element](https://github.com/ruchap24/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ruchap24/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ruchap24/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/ruchap24/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ruchap24/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ruchap24/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/ruchap24/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -246,6 +248,7 @@ Leetcode practice questions
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/ruchap24/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0042-trapping-rain-water](https://github.com/ruchap24/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ruchap24/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ruchap24/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ruchap24/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -329,6 +332,7 @@ Leetcode practice questions
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ruchap24/Leetcode/tree/master/0042-trapping-rain-water) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ruchap24/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Binary Indexed Tree
 |  |
@@ -341,6 +345,7 @@ Leetcode practice questions
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ruchap24/Leetcode/tree/master/0042-trapping-rain-water) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ruchap24/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Tree
 |  |
