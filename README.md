@@ -188,6 +188,7 @@ Leetcode practice questions
 | [0067-add-binary](https://github.com/ruchap24/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ruchap24/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/ruchap24/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0507-perfect-number](https://github.com/ruchap24/Leetcode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/ruchap24/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ruchap24/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2716-prime-subtraction-operation](https://github.com/ruchap24/Leetcode/tree/master/2716-prime-subtraction-operation) |
