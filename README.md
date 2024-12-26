@@ -51,6 +51,7 @@ Leetcode practice questions
 | [0275-h-index-ii](https://github.com/ruchap24/Leetcode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ruchap24/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0436-find-right-interval](https://github.com/ruchap24/Leetcode/tree/master/0436-find-right-interval) |
+| [0494-target-sum](https://github.com/ruchap24/Leetcode/tree/master/0494-target-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ruchap24/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0787-sliding-puzzle](https://github.com/ruchap24/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/ruchap24/Leetcode/tree/master/0792-binary-search) |
@@ -87,6 +88,7 @@ Leetcode practice questions
 | [0040-combination-sum-ii](https://github.com/ruchap24/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ruchap24/Leetcode/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/ruchap24/Leetcode/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/ruchap24/Leetcode/tree/master/0494-target-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -253,6 +255,7 @@ Leetcode practice questions
 | [0053-maximum-subarray](https://github.com/ruchap24/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ruchap24/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ruchap24/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0494-target-sum](https://github.com/ruchap24/Leetcode/tree/master/0494-target-sum) |
 | [2164-two-best-non-overlapping-events](https://github.com/ruchap24/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Prefix Sum
 |  |
