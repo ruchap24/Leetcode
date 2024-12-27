@@ -56,6 +56,7 @@ Leetcode practice questions
 | [0787-sliding-puzzle](https://github.com/ruchap24/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/ruchap24/Leetcode/tree/master/0792-binary-search) |
 | [1036-rotting-oranges](https://github.com/ruchap24/Leetcode/tree/master/1036-rotting-oranges) |
+| [1063-best-sightseeing-pair](https://github.com/ruchap24/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ruchap24/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1249-snapshot-array](https://github.com/ruchap24/Leetcode/tree/master/1249-snapshot-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ruchap24/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -256,6 +257,7 @@ Leetcode practice questions
 | [0118-pascals-triangle](https://github.com/ruchap24/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ruchap24/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0494-target-sum](https://github.com/ruchap24/Leetcode/tree/master/0494-target-sum) |
+| [1063-best-sightseeing-pair](https://github.com/ruchap24/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [2164-two-best-non-overlapping-events](https://github.com/ruchap24/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 ## Prefix Sum
 |  |
