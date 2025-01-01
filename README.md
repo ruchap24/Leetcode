@@ -160,6 +160,7 @@ Leetcode practice questions
 | [0287-find-the-duplicate-number](https://github.com/ruchap24/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/ruchap24/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0436-find-right-interval](https://github.com/ruchap24/Leetcode/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/ruchap24/Leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ruchap24/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/ruchap24/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ruchap24/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -195,6 +196,7 @@ Leetcode practice questions
 | [0067-add-binary](https://github.com/ruchap24/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ruchap24/Leetcode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/ruchap24/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/ruchap24/Leetcode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/ruchap24/Leetcode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/ruchap24/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/ruchap24/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
