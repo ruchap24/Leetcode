@@ -77,6 +77,7 @@ Leetcode practice questions
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ruchap24/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ruchap24/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ruchap24/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/ruchap24/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ruchap24/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ruchap24/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ruchap24/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -140,6 +141,7 @@ Leetcode practice questions
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ruchap24/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2164-two-best-non-overlapping-events](https://github.com/ruchap24/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ruchap24/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/ruchap24/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ruchap24/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ruchap24/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ruchap24/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -218,6 +220,7 @@ Leetcode practice questions
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ruchap24/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2089-maximum-matrix-sum](https://github.com/ruchap24/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ruchap24/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/ruchap24/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ruchap24/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/ruchap24/Leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Number Theory
@@ -247,6 +250,7 @@ Leetcode practice questions
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ruchap24/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/ruchap24/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1972-rotating-the-box](https://github.com/ruchap24/Leetcode/tree/master/1972-rotating-the-box) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/ruchap24/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ruchap24/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Matrix
 |  |
