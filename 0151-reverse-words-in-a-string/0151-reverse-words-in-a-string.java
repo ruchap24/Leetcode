@@ -34,11 +34,11 @@
 // }
 
 
-// \s+ 
+// can also take \s+ 
 
 class Solution {
     public String reverseWords(String s) {
-        String[] wordsArray = s.trim().split("\s+");
+        String[] wordsArray = s.trim().split("\\s+");
             List<String> wordsList = new ArrayList<String>(Arrays.asList(wordsArray));
             Collections.reverse(wordsList);
                 String reversed = String.join(" ", wordsList);
