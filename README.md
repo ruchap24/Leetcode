@@ -14,6 +14,7 @@ Leetcode practice questions
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ruchap24/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/ruchap24/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/ruchap24/Leetcode/tree/master/0067-add-binary) |
+| [0151-reverse-words-in-a-string](https://github.com/ruchap24/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/ruchap24/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0812-rotate-string](https://github.com/ruchap24/Leetcode/tree/master/0812-rotate-string) |
 | [1023-time-based-key-value-store](https://github.com/ruchap24/Leetcode/tree/master/1023-time-based-key-value-store) |
@@ -246,6 +247,7 @@ Leetcode practice questions
 | [0042-trapping-rain-water](https://github.com/ruchap24/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ruchap24/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ruchap24/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/ruchap24/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/ruchap24/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/ruchap24/Leetcode/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/ruchap24/Leetcode/tree/master/0541-reverse-string-ii) |
