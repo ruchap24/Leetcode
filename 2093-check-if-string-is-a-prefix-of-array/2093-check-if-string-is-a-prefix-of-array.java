@@ -7,7 +7,7 @@ class Solution {
                 continue;
             } else if (sb.toString().equals(s)) {
                 return true;
-            } else if (sb.length() > s.length()) {
+            } else {
                 return false;
             }
         }
