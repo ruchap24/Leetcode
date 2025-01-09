@@ -1,12 +1,16 @@
 class Solution {
-   public boolean isPrefixString(String s, String[] words) {
-       String str ="";
-       for(int i = 0; i<words.length; i++){
-           str += words[i];
-           if(str.equals(s)){
-               return true;
-           }
-       }
-       return false;
-   }
+    public boolean isPrefixString(String s, String[] words) {
+        StringBuilder sb = new StringBuilder();
+         for (int i = 0; i < words.length; i++) {
+            sb.append(words[i]);
+            if (sb.length() < s.length()) {
+                continue;
+            } else if (sb.toString().equals(s)) {
+                return true;
+            } else if (sb.length() > s.length()) {
+                return false;
+            }
+        }
+        return false;
+    }
 }
